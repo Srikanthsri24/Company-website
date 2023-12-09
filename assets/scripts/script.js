@@ -385,25 +385,25 @@ const openModel = (n) => {
             </p>
         </div>
     </div>
-    // <div class="product-model-child">
-    //     <img
-    //         src="./assets/images/visionariesai-7.jpeg"
-    //         alt="img"
-    //         class="model-img"
-    //         id="product-img-2"
-    //     />
-    //     <div class="model-product-detailes">
-    //         <h1
-    //             class="title main-product-title"
-    //             id="product-title-2"
-    //         >
-    //         CCTV Surveillance Systems
-    //         </h1>
-    //         <p id="product-detailes-2">
-    //         CCTV Surveillance Systems integrate advanced camera technology and software to monitor and analyze real-time video feeds. This comprehensive security solution enhances safety by detecting and alerting to unusual activities. Widely used in public spaces, businesses, and homes, it provides effective surveillance, deterrence, and incident documentation for improved security.
-    //         </p>
-    //     </div>
-    // </div>
+    <div class="product-model-child">
+        <img
+            src="./assets/images/visionariesai-7.jpeg"
+            alt="img"
+            class="model-img"
+            id="product-img-2"
+        />
+        <div class="model-product-detailes">
+            <h1
+                class="title main-product-title"
+                id="product-title-2"
+            >
+            CCTV Surveillance Systems
+            </h1>
+            <p id="product-detailes-2">
+            CCTV Surveillance Systems integrate advanced camera technology and software to monitor and analyze real-time video feeds. This comprehensive security solution enhances safety by detecting and alerting to unusual activities. Widely used in public spaces, businesses, and homes, it provides effective surveillance, deterrence, and incident documentation for improved security.
+            </p>
+        </div>
+    </div>
     
 
     <div class="product-model-child">
