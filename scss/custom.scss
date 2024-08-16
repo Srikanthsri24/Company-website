@@ -1350,6 +1350,16 @@ i {
                opacity: 0;
             }
          }
+
+      }
+      .feedback-img{
+
+         img{
+            height:100px;
+            width:100px;
+
+         }
+      
       }
       .feedback {
          color: #666;
@@ -1360,6 +1370,7 @@ i {
          margin-bottom: 0;
          transition: .4s;
       }
+     
    }
    .testimonial-box:hover {
       background: #fb383b;
@@ -2032,4 +2043,9 @@ i {
          }
       }
    }
+}
+
+.feedback-img-dreamTech{
+   height:150px;
+   width:150px;
 }
